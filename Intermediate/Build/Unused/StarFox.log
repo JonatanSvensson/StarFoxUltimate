@@ -1,0 +1,11 @@
+﻿Build started 2016-01-27 13:47:00.
+     1>Project "C:\Users\snabel\Documents\Unreal Projects\StarFox\Intermediate\ProjectFiles\StarFox.vcxproj" on node 2 (Build target(s)).
+     1>Build:
+         "C:\Program Files\Epic Games\4.9\Engine\Build\BatchFiles\Build.bat" StarFoxEditor Win64 Development "C:\Users\snabel\Documents\Unreal Projects\StarFox\StarFox.uproject" -rocket -waitmutex
+         Det går inte att hitta sökvägen.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.MakeFile.Targets(38,5): error MSB3073: The command ""C:\Program Files\Epic Games\4.9\Engine\Build\BatchFiles\Build.bat" StarFoxEditor Win64 Development "C:\Users\snabel\Documents\Unreal Projects\StarFox\StarFox.uproject" -rocket -waitmutex" exited with code 3.
+     1>Done Building Project "C:\Users\snabel\Documents\Unreal Projects\StarFox\Intermediate\ProjectFiles\StarFox.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.33
